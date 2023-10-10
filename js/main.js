@@ -1,1 +1,14 @@
-console.log('app is working');
+/*----- constants -----*/
+
+
+/*----- state variables -----*/
+
+
+/*----- cached elements  -----*/
+
+
+/*----- event listeners -----*/
+
+
+/*----- functions -----*/
+
